@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nbusi890_code.twa",
+        "sha256_cert_fingerprints": ["54:86:55:50:50:72:34:8D:D1:ED:77:01:C3:5A:C1:DB:86:31:2F:8B:D8:75:04:89:34:FE:F0:75:B2:12:05:66"]
+      }
+    }]
